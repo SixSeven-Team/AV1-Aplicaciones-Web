@@ -14,7 +14,7 @@
 ## Presentado por ´Six Seven Team´
 
 
-<img src="./PetHealt.png" alt="PetHealt Logo" width="320"/>
+<img src="./pethealt-report/assets/images/PetHealt.png" alt="PetHealt Logo" width="320"/>
 
 ## 🚀 Startup: PetHealt
 
