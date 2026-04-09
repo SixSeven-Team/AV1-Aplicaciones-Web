@@ -14,7 +14,7 @@
 ## Presentado por ´Six Seven Team´
 
 
-<img src="./brandradar.png" alt="BrandRadar Logo" width="320"/>
+<img src="./PetHealt.png" alt="PetHealt Logo" width="320"/>
 
 ## 🚀 Startup: PetHealt
 
